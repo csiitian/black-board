@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.eraser-cursor {
+  cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAZElEQVQoz2NgQAL/z0BQDkQW/gMR+R+ZhFBRMRQhJRgZmRgkBMRzEm1mH4T0AzDJDgbmkZA8yMgDkHxAeRXBAVOYIgpDUMSg6A6QRjAwUQGglQDCpDgZoQ4CWQDQDAMAiywVTVZ9dAAAAAElFTkSuQmCC') 0 0, auto;
+}
