@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/black-board/static/css/main.afef49af.css",
+    "main.js": "/black-board/static/js/main.e1931c43.js",
+    "static/js/453.8b91a942.chunk.js": "/black-board/static/js/453.8b91a942.chunk.js",
+    "index.html": "/black-board/index.html",
+    "main.afef49af.css.map": "/black-board/static/css/main.afef49af.css.map",
+    "main.e1931c43.js.map": "/black-board/static/js/main.e1931c43.js.map",
+    "453.8b91a942.chunk.js.map": "/black-board/static/js/453.8b91a942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afef49af.css",
+    "static/js/main.e1931c43.js"
+  ]
+}
